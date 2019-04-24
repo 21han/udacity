@@ -1,4 +1,4 @@
-PROJECT LICENSE
+**Udacity License**
 
 This project was submitted by Zihan Guo as part of the A.I. For Trading Nano-Degree At Udacity.
 
@@ -14,7 +14,7 @@ Copyright (c) 2019 Zihan Guo
 Besides the above notice, the following license applies and this license notice
 must be included in all works derived from this project.
 
-MIT License
+**MIT License**
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

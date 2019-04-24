@@ -1,6 +1,6 @@
 PROJECT LICENSE
 
-This project was submitted by Zihan Guo as part of the A.I. For Trading Nano Degree At Udacity.
+This project was submitted by Zihan Guo as part of the A.I. For Trading Nano-Degree At Udacity.
 
 As part of Udacity Honor code, your submissions must be your own work, hence
 submitting this project as yours will cause you to break the Udacity Honor Code

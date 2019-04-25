@@ -1,19 +1,23 @@
 
 ##  Udacity Project Collections
 
-What's the point of all the late night learnings if a man doesn't share his knowledge? This project dedicates to documenting my learning progress.
+What's the point of all the late night learnings if a man doesn't share his knowledge? This project dedicates to documenting learning on Udacity, whether the learning come from course or a Nanodegree program.
 
 ## Motivation
 
-+ Inventory for knowledge queries. (I will forget things like how to do regex in Python and I know where to look for such tutorials)
++ Inventory for knowledge queries. (we might forget things like how to do regex in Python and we know where to look for such tutorials)
 + Consolidate learning by act of documenting and re-organizing learning materials
-+ **Optional**: ideally, I want to pull some time to implement learning concepts to different settings. For example, how about we test the Sentiment Neural Network on Cryptocurrency for example. With more active learning, I hope to cultivate more skills and more in depth thinkings (something that the programs themselves won't teach directly). One has to learn by actively creating from existing concepts.
++ **Optional**: ideally, we want to pull some time to implement learning concepts to different settings. For example, how about we test the Sentiment Neural Network on Cryptocurrency for example. With more active learning, we hope to cultivate more skills and more in depth thinkings (something that the programs themselves won't teach directly). One has to learn by actively creating from existing concepts.
 
 ## Contribute
 
 Since this is an open source project, so feel free to contribute your learning materials to this repository as well. However, make sure that you are listing your own License(s). If you have trouble creating a pull request or any other permission issues. Feel free to raise them in the Issue section. 
 
 Please do not make redundant projects. If there is already A.I. for Trading Project there, then consider contributing some other projects.
+
+## Credits
+
+We will start giving credits to contributors once the number of contributors exceeds 1.
 
 ## License
 Content for Udacity's Nanodegree Projects, Learning Materials and Notes.

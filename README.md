@@ -5,15 +5,15 @@ What's the point of all the late night learnings if a man doesn't share his know
 
 ## Motivation
 
-Couple motivations for this project:
-
-+ Inventory for knowledge queries. (I will forget about how to things like Python Regex and I know where to look for such tutorials)
++ Inventory for knowledge queries. (I will forget things like how to do regex in Python and I know where to look for such tutorials)
 + Consolidate learning by act of documenting and re-organizing learning materials
 + **Optional**: ideally, I want to pull some time to implement learning concepts to different settings. For example, how about we test the Sentiment Neural Network on Cryptocurrency for example. With more active learning, I hope to cultivate more skills and more in depth thinkings (something that the programs themselves won't teach directly). One has to learn by actively creating from existing concepts.
 
 ## Contribute
 
-Since this is an open source project, so feel free to contribute your learning materials to this repository as well. However, make sure that you are listing your own License(s). If you have trouble creating a pull request or any other permission issues. Feel free to raise them in the Issue section.
+Since this is an open source project, so feel free to contribute your learning materials to this repository as well. However, make sure that you are listing your own License(s). If you have trouble creating a pull request or any other permission issues. Feel free to raise them in the Issue section. 
+
+Please do not make redundant projects. If there is already A.I. for Trading Project there, then consider contributing some other projects.
 
 ## License
 Content for Udacity's Nanodegree Projects, Learning Materials and Notes.

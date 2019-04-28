@@ -17,7 +17,7 @@ Please do not make redundant projects. If there is already A.I. for Trading Proj
 
 ## Credits
 
-We will start giving credits to contributors once the number of contributors exceeds 1.
+Zihan Guo, [A.I. For Trading](https://confirm.udacity.com/Q3RAMGSS)
 
 ## License
 Content for Udacity's Nanodegree Projects, Learning Materials and Notes.

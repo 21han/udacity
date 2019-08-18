@@ -1,7 +1,7 @@
 
 ##  Udacity Project Collections
 
-What's the point of all the late night learnings if a man(woman) doesn't share his(her) knowledge? This project dedicates to documenting learning on Udacity, whether the learning come from a course or a Nanodegree program.
+What's the point of all the late night learnings without sharing? This project dedicates to documenting learning on Udacity, whether the learning come from a course or a Nanodegree program.
 
 ## Motivation
 
